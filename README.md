@@ -2,7 +2,7 @@
 
 - 🎓 I've a bachelor's degree in Software Engineering from the university Unicesumar www.unicesumar.edu.br
 - 👔 I’m currently working on Java Software Engineer at Objective Solutions www.objective.com.br
-- 📚 I’m currently learning Data Science and Artificial Intelligence at PUCRS www.pucrs.com.br
+- 📚 I’m currently learning Data Science and Artificial Intelligence at PUCRS www.pucrs.br
 
 <div align="left">
   <a href="https://github.com/geovanenuness">
